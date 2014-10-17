@@ -2,7 +2,7 @@
 
 
 ```r
-#set global options to always ECHO code block
+#set global options to always ECHO code block, as defined by assignment
 library(knitr)
 opts_chunk$set(echo=TRUE) 
 ```
